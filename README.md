@@ -14,12 +14,12 @@ The chess AI used is known as the Stockfish Engine. This engine is open source a
 The chess pieces are moved by a retractable magnet mounted on a carriage that can be moved around the board by two stationary stepper motors labelled A and B below. The motion is very unintuitive but is described simply with the equations below. The frame is composed of a blue chess board on top of a wooden base with acrylic top to see the working mechanics for the purpose of using this tool as an educational tool for student outreach.
 
 ## Main Contributers:
-Chris Whalley (BE(Hons)(Mecht))
-Thomas Walker (BE(Hons)(Mecht))
+Chris Whalley (BE(Hons)(Mecht)),
+Thomas Walker (BE(Hons)(Mecht)),
 Tobin South (BMaCompSc)
 
 ## Sponsors:
-Adept
+Adept,
 Australian Center for Robotic Vision
 
 Thanks to Rafa for being a legend
